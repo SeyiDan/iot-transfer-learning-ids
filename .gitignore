@@ -1,3 +1,14 @@
+*.csv
+*.pkl
+*.pickle
+raw_datasets/
+preprocessed_datasets/
+enhanced_aligned_datasets/
+transfer_learning_results/
+outputs/
+kaggle.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
