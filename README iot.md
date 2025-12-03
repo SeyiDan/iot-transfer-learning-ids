@@ -9,7 +9,6 @@
 
 **Author:** Oluwaseyi Oladejo  
 **Supervisor:** Dr. Ahmed A. Ahmed  
-**Advisor:** Dr. Lin Li  
 **Institution:** Prairie View A&M University
 
 ---
@@ -337,7 +336,7 @@ If you use this code or methodology in your research, please cite:
   school={Prairie View A\&M University},
   type={Master's Thesis},
   supervisor={Ahmed A. Ahmed},
-  advisor={Lin Li}
+  
 }
 ```
 
@@ -345,7 +344,7 @@ If you use this code or methodology in your research, please cite:
 ```
 Oladejo, O. (2025). Leveraging Cross-Domain Transfer Learning for Enhanced 
 Multi-Protocol Network Intrusion Detection [Master's thesis, Prairie View A&M 
-University]. Supervised by Dr. Ahmed A. Ahmed; Advised by Dr. Lin Li.
+University]. Supervised by Dr. Ahmed A. Ahmed.
 ```
 
 ---
@@ -416,14 +415,14 @@ print(os.listdir(ALIGNED_DIR))
 **Oluwaseyi Oladejo**  
 Master's Student, Computer Science  
 Prairie View A&M University  
-Email: your.email@pvamu.edu  
-GitHub: [@yourusername](https://github.com/yourusername)
+Email: oladejo.seyi2@gmail.com  
+GitHub: [@yourusername](https://github.com/SeyiDan)
 
 **Supervisor:** Dr. Ahmed A. Ahmed  
-Email: aaahmed@pvamu.edu
+Email: amahmed@pvamu.edu
 
-**Advisor:** Dr. Lin Li  
-Email: lili@pvamu.edu
+  
+
 
 ---
 
@@ -459,7 +458,7 @@ SOFTWARE.
 
 ## 🙏 Acknowledgments
 
-- **Datasets:** CICIoMT, CIC-IoT, IoT-23 creators
+- **Datasets:** CICIoMT, CIC-IoT, IoT-23, Canadian Institute of Cybersecurity
 - **Libraries:** Scikit-learn, XGBoost, Gradio communities
 - **Support:** Prairie View A&M University Computer Science Department
 - **Inspiration:** IoT security research community
